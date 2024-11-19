@@ -8,5 +8,5 @@ Question 4:  optimize the code for bubble sort algorithm
             optimize the code @bubblesort.py
 Question 5: Add proper Javadoc comments in @documentaion.java
 
-Question 6: create unit tests for count vovels in string
+Question 6: create unit tests for count vowels in string
  write unit tests for @unittest.py

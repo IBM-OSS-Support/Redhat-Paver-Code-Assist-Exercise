@@ -14,7 +14,7 @@ You can type your questions ,coding problems in the chat section and it will gen
 If there is information from the codebase, documentation, IDE, or other tools that you want to include as context, you can type @ to select and include it as context.
 ![context](media/context.gif)
 
-To learn more about how touse chat refer this [link](https://docs.continue.dev/chat/how-to-use-it#how-to-use-it)
+To learn more about how to use chat refer this [link](https://docs.continue.dev/chat/how-to-use-it#how-to-use-it)
 
 * ##### Scenarios 
 Following are the sample question you can try it in the Paver-Code-Assist

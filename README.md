@@ -31,16 +31,16 @@ To get started, follow the steps below for the hands-on experience using paver
 2. Open the project folder in Visual Studio Code.
   make sure Paver extension is installed and  can start working on using paver
 
-  
+ 
 * #### Exercises
 The repository contains several exercises that you can use to practice and improve your skills with the Red Hat Paver Code Assist extension. Each exercise is located in a separate folder and includes a README file with instructions on how to complete it.
 
-1.[testcases-chatmodel](testcases-chatmodel)  has the 5 questions/scenarios where we are testing for the chat compagainst the following model:
+1.[testcases-chatmodel](testcases-chatmodel)  has the 6 questions/scenarios where we are testing for the chat compagainst the following model:
 * **granite3-dense:2b**
 
-2.The [chatresults](chatresults) folder contains the output for each iteration. We run the 5 scenarios  for the
+2.The [chatresults](https://github.com/IBM-developers/Redhat-Paver-Code-Assist-Exercise/tree/main/chat-results) folder contains the output for each iteration. We run the 5 scenarios  for the
 
-3.The [test-tabmodel](test-tabmodel) folder contains the result for the tab completion testcases
+3.The [test-tabmodel](https://github.com/IBM-developers/Redhat-Paver-Code-Assist-Exercise/tree/main/tab-result) folder contains the result for the tab completion testcases
 
 
 

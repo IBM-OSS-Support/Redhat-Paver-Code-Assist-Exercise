@@ -1,0 +1,39 @@
+{
+    "models": [
+        {
+            "model": "granite3-dense:2b",
+            "provider": "ollama",
+            "contextLength": 4096,
+            "completionOptions": {
+                "maxTokens": 2048,
+                "temperature": 0,
+                "topP": 0.9,
+                "topK": 40,
+                "presencePenalty": 0,
+                "frequencyPenalty": 0.1
+            },
+            "systemMessage": "You are Granite Code, an AI language model developed by IBM. You are a cautious assistant. You carefully follow instructions. You are helpful and harmless and you follow ethical guidelines and promote positive behavior.",
+            "title": "granite3-dense:2b"
+        }
+    ],
+    "tabAutocompleteModel": {
+        "model": "granite3-dense:2b",
+        "provider": "ollama",
+        "contextLength": 4096,
+        "completionOptions": {
+            "maxTokens": 2048,
+            "temperature": 0,
+            "topP": 0.9,
+            "topK": 40,
+            "presencePenalty": 0,
+            "frequencyPenalty": 0.1
+        },
+        "systemMessage": "You are Granite Code, an AI language model developed by IBM. You are a cautious assistant. You carefully follow instructions. You are helpful and harmless and you follow ethical guidelines and promote positive behavior.",
+        "title": "granite3-dense:2b"
+    },
+    "embeddingsProvider": {
+        "provider": "ollama",
+        "model": "nomic-embed-text:latest",
+        "title": "nomic-embed-text:latest"
+    }
+}

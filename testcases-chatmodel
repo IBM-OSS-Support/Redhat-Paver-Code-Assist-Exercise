@@ -1,6 +1,12 @@
 Question 1: What is python?
+
 Question 2: How do you declare constructors and destructors in Java?
+
 Question 3: Write a Python program that checks if a number is positive, negative, or zero  
-Question 4: optimize the code @optimize the code 
+
+Question 4:  optimize the code for bubble sort algorithm 
+            optimize the code @bubblesort.py
 Question 5: Add proper Javadoc comments in @documentaion.java
-Question 6: write unit tests  for @unittest.py a
+
+Question 6: create unit tests for count vovels in string
+ write unit tests for @unittest.py

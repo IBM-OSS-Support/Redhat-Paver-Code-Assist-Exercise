@@ -210,8 +210,8 @@ The Javadoc comments provide a brief description of each method, including its p
 
 *********************************************************************************************************************************************************************************************************************************************************************************************
 
-Question 6: write unit tests for a function in python  for checking given string is palindrome or not 
-write unit tests for @unittest.py
+Question 6: create unit tests for count vowels in string
+ write unit tests for @unittest.py
 
 Total time: 505.680708ms
 

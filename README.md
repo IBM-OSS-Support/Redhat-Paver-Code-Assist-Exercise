@@ -16,20 +16,14 @@ The purpose of this repository is to provide a learning resource for using the [
 - **Latest Version of [Visual Studio Code](https://code.visualstudio.com/)**
 - **[Paver Extention](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-paver) installed** 
 
+
+installation from paver
+
 for more details about install paver with continue.dev refer the [link](https://github.com/redhat-developer/vscode-paver#step-1-install-the-extension)
 
 ### Getting Started
 
-To get started, follow the steps below for the hands-on experience using paver
-
-
-1. Clone this repository to your local machine.
-
-```
- git clone https://github.com/IBM-developers/Redhat-Paver-Code-Assist-Exercise.git
-```
-2. Open the project folder in Visual Studio Code.
-  make sure Paver extension is installed and  can start working on using paver
+To get started, follow the steps below for the hands-on experience using paveer
 
  
 * #### Exercises
@@ -37,8 +31,6 @@ The repository contains several exercises that you can use to practice and impro
 
 1.[testcases-chatmodel](testcases-chatmodel)  has the 6 questions/scenarios where we are testing for the chat compagainst the following model:
 * **granite3-dense:2b**
-
-2.The [chatresults](https://github.com/IBM-developers/Redhat-Paver-Code-Assist-Exercise/tree/main/chat-results) folder contains the output for each iteration. We run the 5 scenarios  for the
 
 3.The [test-tabmodel](https://github.com/IBM-developers/Redhat-Paver-Code-Assist-Exercise/tree/main/tab-result) folder contains the result for the tab completion testcases
 

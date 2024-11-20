@@ -24,7 +24,7 @@ Question 2: How do you declare constructors and destructors in Java?
 Question 3: Write a Python program that checks if a number is positive, negative, or zero  
 Question 4:  optimize the code for bubble sort algorithm optimize the code @bubblesort.py  
 Question 5: Add proper Javadoc comments in @Calculator.java  
-Question 6: create unit tests for count vowels in string write unit tests for @unittest.py  
+Question 6: create unit tests for count vowels in string write unit tests for @unittestvowels.py  
 
 Refer the [chat-testcase-results](https://github.com/IBM-developers/Redhat-Paver-Code-Assist-Exercise/blob/main/testcase-results/chat-testcase-results) folder for the  expected/sample output for the above questions 
 

@@ -19,11 +19,13 @@ The purpose of this repository is to provide a learning resource for using the [
 
 ### Getting Started
 
-#### Step 1: Install the Extension
+#### Step 1: Install the Extension  
+
+Mac Users please install homebrew
 
 Open Visual Studio Code, navigate to the Extensions tab on the left sidebar,
-select "Paver," and click "install."
-
+select "Paver," and click "install."  
+  
 The [Continue.dev](https://continue.dev/) extension will be automatically added
 as a dependency, if not already installed. If you installed `Paver` manually,
 you may need to also install the Continue extension separately.

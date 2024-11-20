@@ -17,15 +17,13 @@ If there is information from the codebase, documentation, IDE, or other tools th
 To learn more about how to use chat refer this [link](https://docs.continue.dev/chat/how-to-use-it#how-to-use-it)
 
 * ##### Scenarios 
-Following are the sample question you can try it in the Paver-Code-Assist
-Question 1: What is python?
-Question 2: How do you declare constructors and destructors in Java?
+Following are the sample question you can try it in the Paver-Code-Assist  
+Question 1: What is python?  
+Question 2: How do you declare constructors and destructors in Java?  
 Question 3: Write a Python program that checks if a number is positive, negative, or zero  
-Question 4:  optimize the code for bubble sort algorithm 
-optimize the code @bubblesort.py
-Question 5: Add proper Javadoc comments in @Calculator.java
-Question 6: create unit tests for count vowels in string
-write unit tests for @unittest.py
+Question 4:  optimize the code for bubble sort algorithm optimize the code @bubblesort.py  
+Question 5: Add proper Javadoc comments in @Calculator.java  
+Question 6: create unit tests for count vowels in string write unit tests for @unittest.py  
 
 Refer the [chat-testcase-results](https://github.com/IBM-developers/Redhat-Paver-Code-Assist-Exercise/blob/main/testcase-results/chat-testcase-results) folder for the  expected/sample output for the above questions 
 

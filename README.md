@@ -68,7 +68,7 @@ The repository contains several exercises that you can use to practice and impro
 
 * [testcases.md](https://github.com/IBM-developers/Redhat-Paver-Code-Assist-Exercise/tree/main/testcases.md)  has the 6 questions/scenarios along with instructions on how to use continue.dev in vscode and complete them.
 
-we are testing for the chat compagainst the following model:
+The exercise exxamples, results, and videos use a Default installation of Paver that will install and configure:
 ***granite3-dense:2b**
 
 

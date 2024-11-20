@@ -16,6 +16,7 @@ If there is information from the codebase, documentation, IDE, or other tools th
 
 To learn more about how to use chat refer this [link](https://docs.continue.dev/chat/how-to-use-it#how-to-use-it)
 
+Note: May have to install Java and Python environment extensions/packages  
 * ##### Scenarios 
 Following are the sample question you can try it in the Paver-Code-Assist  
 Question 1: What is python?  

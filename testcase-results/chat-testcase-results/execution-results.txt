@@ -207,33 +207,31 @@ public class Calculator {
 *********************************************************************************************************************************************************************************************************************************************************************************************
 
 Question 6: create unit tests for count vowels in string
- write unit tests for @unittest.py
+ write unit tests for @unittestvowels.py
 
 Total time: 505.680708ms
 
 Response:
 
-Here are some unit test cases for the count_vowels function using the 
-unittest.py
- framework:
+Here are some unit tests you can write for the count_vowels function in the unittestvowels.py file:
 
 import unittest
+from unittestvowels import count_vowels
 
 class TestCountVowels(unittest.TestCase):
 
     def test_count_vowels(self):
         self.assertEqual(count_vowels("Hello, World!"), 3)
-        self.assertEqual(count_vowels("The quick brown fox jumps over the lazy dog"), 10)
-        self.assertEqual(count_vowels("aeiouAEIOU"), 10)
+        self.assertEqual(count_vowels("Python is fun"), 4)
+        self.assertEqual(count_vowels("AI is the future"), 5)
+        self.assertEqual(count_vowels("Granite is a helpful AI"), 6)
         self.assertEqual(count_vowels("12345"), 0)
+        self.assertEqual(count_vowels(""), 0)
+        self.assertEqual(count_vowels("aeiouAEIOU"), 10)
 
 if __name__ == '__main__':
     unittest.main()
-These test cases cover a variety of scenarios, including strings with and without spaces, punctuation, and numbers. The assertEqual method is used to check that the function returns the expected result for each test case.
-
-You can run these test cases by saving them in a file named 
-unittest.py
- and running the file using Python. The unittest.main() function will automatically discover and run all the test cases in the file. If any of the test cases fail, it will print an error message indicating which test case failed and what the expected and actual results were.
+These tests cover various scenarios, including strings with and without vowels, strings with uppercase and lowercase letters, and empty strings.
 
 
 
